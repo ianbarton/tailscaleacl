@@ -1,0 +1,3 @@
+* Example acl for tailscale.
+  Members of admin group can access the UNRAID server via port 80. Members of
+  the emby group can only access the port of the emby docker container.
